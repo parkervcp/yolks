@@ -131,9 +131,11 @@ is tagged correctly.
 * [`minetest`](/games/minetest)
   * `ghcr.io/parkervcp/games:minetest`  
 * [`mohaa`](games/mohaa)
-  * `ghcr.io/pterodactyl/games:mohaa`  
+  * `ghcr.io/parkervcp/games:mohaa`  
 * [`Multi Theft Auto: San Andreas`](games/mta)
-  * `ghcr.io/pterodactyl/games:mta`    
+  * `ghcr.io/parkervcp/games:mta` 
+* [`Rust (dedicated server)`](games/rust)
+  * `ghcr.io/parkervcp/games:rust`      
 * [`samp`](/games/samp)
   * `ghcr.io/parkervcp/games:samp`  
 * [`source`](/games/source)
